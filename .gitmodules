@@ -1,0 +1,3 @@
+[submodule "TS-test-mars-rover"]
+	path = TS-test-mars-rover
+	url = https://github.com/RobertoDelPino/Mars-Rovers-Kata-Typescript
